@@ -1,0 +1,2 @@
+# mero
+Mavi tik 
